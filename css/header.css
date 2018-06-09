@@ -16,6 +16,10 @@ body{
 	background-color: white;
 }
 
+.img-fluid{
+	max-width: 100%; and height: auto;
+}
+
 *{
 	font-family: Verdana;
 }
