@@ -1,9 +1,13 @@
 /* * * * * * * * * *
  * SpyderByte Inc  *
  *   06/13/2018    *
- *   photos.css    *
+ *    map.css     *
  * * * * * * * * * */
 
-.thumbnail{
-	border-style: none;
+.map{
+	text-align: center;
+}
+
+.map > img{
+	max-width: 100%;
 }

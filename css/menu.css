@@ -1,4 +1,10 @@
-.list{
+/* * * * * * * * * *
+ * SpyderByte Inc  *
+ *   06/13/2018    *
+ *   menu.css      *
+ * * * * * * * * * */
+ 
+ .list{
 	display: inline-block;
 	font-size: 24px;
 }
@@ -7,11 +13,6 @@
 	width: 45%;
 	margin-left: 20%;
 	margin-right: 2%;
-}
-
-.page-heading{
-	text-align: center;
-	font-size: 48px;
 }
 
 .specials{
