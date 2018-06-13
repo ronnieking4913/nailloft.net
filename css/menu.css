@@ -1,0 +1,26 @@
+.list{
+	display: inline-block;
+	font-size: 24px;
+}
+
+.left-list{
+	width: 45%;
+	margin-left: 20%;
+	margin-right: 2%;
+}
+
+.page-heading{
+	text-align: center;
+	font-size: 48px;
+}
+
+.specials{
+	text-align: center;
+	font-size: 24px;
+}
+
+@media only screen and (max-width: 991px) {
+    .right-list{
+        margin-left: 20%;
+    }
+}
